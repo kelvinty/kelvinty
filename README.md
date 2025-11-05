@@ -11,9 +11,8 @@
 Sou desenvolvedor apaixonado por tecnologia, design de jogos e criação de sistemas envolventes.  
 Atualmente trabalho com **Angular**, **NestJS** e **Unity**, explorando maneiras de unir **interatividade**, **performance** e **criatividade** em cada projeto.  
 
-- 🎮 Atualmente desenvolvendo o jogo **Raoni**, um top-down em pixel art com temática indígena.  
-- 🧠 Interesse especial por **inteligência artificial para jogos**, **sistemas de habilidades** e **gamificação**.  
-- 💼 CLT e envolvido em projetos que unem **educação, tecnologia e jogos**.  
+- 🧠 Interesse especial por **AI/AI para jogos**, **sistemas de habilidades** e **gamificação**.  
+- 💼 CLT e envolvido em projetos que unem **comunicação ,educação, tecnologia e jogos**.  
 - 💬 Adoro conversar sobre **game design**, **boas práticas de código** e **automação de sistemas**.
 
 ---
@@ -62,18 +61,13 @@ Atualmente trabalho com **Angular**, **NestJS** e **Unity**, explorando maneiras
 ### ✨ Um pouco de mim
 
 > “Transformar ideias em experiências — é isso que me move.”
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250">
-</p>
-
 ---
 
 ### 📫 Contato
 
 <p align="center">
-  <a href="mailto:kelvin.conego@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/kelvinconego/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:kelvin.c.tyszczenko@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/kelvin-tyszczenko-570a00170/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/kelvinty"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
