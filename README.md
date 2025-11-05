@@ -46,6 +46,16 @@ Atualmente trabalho com **Angular**, **NestJS** e **Unity**, explorando maneiras
 > “Transformar ideias em experiências — é isso que me move.”
 ---
 
+### 🕹️ Confira meus jogos no Itch.io
+
+<p align="center">
+  <a href="https://kelvinty.itch.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-Kelvin%20Conego%20@%20Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white">
+  </a>
+</p>
+
+---
+
 ### 📫 Contato
 
 <p align="center">
