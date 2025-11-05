@@ -41,23 +41,6 @@ Atualmente trabalho com **Angular**, **NestJS** e **Unity**, explorando maneiras
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvinty&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinty&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
----
-
-### 🌱 Projetos em destaque
-
-- 🎮 **[Raoni](https://github.com/kelvinty/raoni)** — Jogo top-down em pixel art com temática indígena, desenvolvido em Unity.  
-- ⚡ **[Gamificação Estágio](https://github.com/kelvinty/gamificacao-estagio)** — Sistema de gamificação para equivalência de estágio.  
-- 💻 **[Desafio Técnico III](https://github.com/kelvinty/desafio-tecnico-III)** — Aplicação Angular + NestJS para gestão de pacientes e exames.
-
----
-
 ### ✨ Um pouco de mim
 
 > “Transformar ideias em experiências — é isso que me move.”
